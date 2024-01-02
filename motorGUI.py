@@ -1,3 +1,5 @@
+# Firas Abouzahr, 2022 #
+
 import tkinter as tk
 import platform
 from tkinter.messagebox import askyesno
